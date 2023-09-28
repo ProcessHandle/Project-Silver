@@ -1,1 +1,42 @@
-print("Hello)
+{
+"ImSorry":
+{"Moves":["Splash"],
+"PokemonName":"Palkia",
+"Nature":"Adamant",
+"Nickname":"Palkia",
+"Pokeball":"Pokeball",
+"Level":"5",
+"Gender":"Female",
+"Shiny":true,
+"Skin":"Klu",
+"TL":false,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"🎁 GIFT 🎁",
+"EVs":{"SpA":84,"HP":84,"Speed":84,"SpD":84,"Def":84,"Atk":84},
+"Allowed":true
+},
+"HispanicHeritage<3": {
+	"TokenKind": "Normal",
+	"Amount": 3
+},
+"ThisIsSecretz": {
+	"TokenKind": "Reskin",
+	"Amount": 3,
+	"Player": "Lil_Darkie142"
+},
+"TRANSFORM":
+{"Moves":["Fire Punch","Draco Meteor","Dragon Dance","Extreme Speed"],
+"PokemonName":"Salamence",
+"Nature":"Adamant",
+"Nickname":"DR4KESSALAMENCE",
+"Pokeball":"Pokeball",
+"Level":"Badge",
+"Gender":"Male",
+"Shiny":false,
+"TL":true,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"Supp3rior",
+"EVs":{"SpA":84,"HP":84,"Speed":84,"SpD":84,"Def":84,"Atk":84},
+"Allowed":true,
+"Skin":"Predator"
+}}
