@@ -24,6 +24,11 @@
 	"Amount": 3,
 	"Player": "Lil_Darkie142"
 },
+"GtokzBuuReimbursement": {
+	"TokenKind": "Shiny",
+	"Amount": 2,
+	"Player": "GtokzBuu"
+},
 "TRANSFORM":
 {"Moves":["Fire Punch","Draco Meteor","Dragon Dance","Extreme Speed"],
 "PokemonName":"Salamence",
