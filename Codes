@@ -29,6 +29,16 @@
 	"Amount": 10,
 	"Player": "Cr1pn"
 },
+"DontLieToMeCutie": {
+	"TokenKind": "Legendary",
+	"Amount": 5,
+	"Player": "Z_Destro"
+},
+"Gangster312": {
+	"TokenKind": "Legendary",
+	"Amount": 5,
+	"Player": "Cr1pn"
+},
 "TRANSFORM":
 {"Moves":["Fire Punch","Draco Meteor","Dragon Dance","Extreme Speed"],
 "PokemonName":"Salamence",
