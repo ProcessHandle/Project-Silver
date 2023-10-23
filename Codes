@@ -15,10 +15,6 @@
 "EVs":{"SpA":84,"HP":84,"Speed":84,"SpD":84,"Def":84,"Atk":84},
 "Allowed":true
 },
-"ImSorryAndWelcome": {
-	"TokenKind": "Shiny",
-	"Amount": 1
-},
 "ThisIsSecretz": {
 	"TokenKind": "Reskin",
 	"Amount": 3,
