@@ -24,6 +24,11 @@
 	"TokenKind": "Legendary",
 	"Amount": 1
 },
+"BIGSUPPORT!": {
+    "TokenKind": "Reskin",
+    "Amount": 1,
+    "BadgeRequired": "8"
+}
 "AbduIsAFatMonkey": {
 	"TokenKind": "Reskin",
 	"Amount": 999,
