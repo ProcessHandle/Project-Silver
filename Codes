@@ -22,7 +22,8 @@
 },
 "SorryForBug!": {
 	"TokenKind": "Legendary",
-	"Amount": 1
+	"Amount": 1,
+	"BadgeRequired": "6"
 },
 "BIGSUPPORT!": {
     "TokenKind": "Reskin",
