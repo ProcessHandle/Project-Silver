@@ -20,10 +20,10 @@
 	"Amount": 3,
 	"Player": "Lil_Darkie142"
 },
-"SorryForBug!": {
+"HappyThanksGiving": {
 	"TokenKind": "Legendary",
-	"Amount": 1,
-	"BadgeRequired": "6"
+	"Amount": 2,
+	"BadgeRequired": "4"
 },
 "100kVisits!": {
     "TokenKind": "Reskin",
