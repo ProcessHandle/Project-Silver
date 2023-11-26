@@ -20,16 +20,6 @@
 	"Amount": 3,
 	"Player": "Lil_Darkie142"
 },
-"HappyThanksGiving": {
-	"TokenKind": "Legendary",
-	"Amount": 2,
-	"BadgeRequired": "4"
-},
-"100kVisits!": {
-    "TokenKind": "Reskin",
-    "Amount": 1,
-    "BadgeRequired": "8"
-},
 "AbduIsAFatMonkey": {
 	"TokenKind": "Reskin",
 	"Amount": 999,
