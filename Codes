@@ -29,7 +29,7 @@
 	"TokenKind": "Reskin",
 	"Amount": 999,
 	"Player": "Yaoshi_Yamishibai"
-},
+}, 
 "TRANSFORM":
 {"Moves":["Fire Punch","Draco Meteor","Dragon Dance","Extreme Speed"],
 "PokemonName":"Salamence",
