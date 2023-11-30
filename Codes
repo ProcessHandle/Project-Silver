@@ -22,7 +22,8 @@
 },
 "200kVisits!": {
 	"TokenKind": "Legendary",
-	"Amount": 2
+	"Amount": 2, 
+	"BadgeRequired" : "8"
 },
 "AbduIsAFatMonkey": {
 	"TokenKind": "Reskin",
