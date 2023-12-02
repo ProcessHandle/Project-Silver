@@ -25,6 +25,11 @@
 	"Amount": 2, 
 	"BadgeRequired" : "8"
 },
+"2ManyPings": {
+	"TokenKind": "Legendary",
+	"Amount": 1, 
+	"BadgeRequired" : "6"
+},
 "AbduIsAFatMonkey": {
 	"TokenKind": "Reskin",
 	"Amount": 999,
