@@ -20,9 +20,9 @@
 	"Amount": 3,
 	"Player": "Lil_Darkie142"
 },
-"200kVisits": {
-	"TokenKind": "Legendary",
-	"Amount": 2, 
+"300kVisits": {
+	"TokenKind": "Reskin",
+	"Amount": 1, 
 	"BadgeRequired" : "8"
 },
 "2ManyPings": {
