@@ -20,20 +20,10 @@
 	"Amount": 3,
 	"Player": "Lil_Darkie142"
 },
-"Wuhhh123!": {
-	"TokenKind": "Legendary",
-	"Amount": 1, 
-	"BadgeRequired" : "4"
-},
-"2ManyPings": {
-	"TokenKind": "Legendary",
-	"Amount": 1, 
+"RobloxKSilverW": {
+	"TokenKind": "Shiny",
+	"Amount": 2,
 	"BadgeRequired" : "6"
-},
-"AbduIsAFatMonkey": {
-	"TokenKind": "Reskin",
-	"Amount": 999,
-	"Player": "Yaoshi_Yamishibai"
 }, 
 "TRANSFORM":
 {"Moves":["Fire Punch","Draco Meteor","Dragon Dance","Extreme Speed"],
