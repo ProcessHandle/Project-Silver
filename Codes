@@ -25,6 +25,11 @@
 	"Amount": 2,
 	"BadgeRequired" : "2"
 },
+"DoubleDigits!": {
+	"TokenKind": "Legendary",
+	"Amount": 1,
+	"BadgeRequired" : "4"
+},
 "LetsGetIt": {
 	"TokenKind": "Reskin",
 	"Amount": 1,
