@@ -24,6 +24,11 @@
 	"TokenKind": "Shiny",
 	"Amount": 2,
 	"BadgeRequired" : "2"
+},
+"LetsGetIt": {
+	"TokenKind": "Reskin",
+	"Amount": 1,
+	"BadgeRequired" : "6"
 }, 
 "TRANSFORM":
 {"Moves":["Fire Punch","Draco Meteor","Dragon Dance","Extreme Speed"],
