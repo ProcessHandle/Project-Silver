@@ -25,6 +25,11 @@
 	"Amount": 2,
 	"BadgeRequired" : "2"
 },
+"ListedWow!": {
+	"TokenKind": "Shiny",
+	"Amount": 2,
+	"BadgeRequired" : "3"
+},
 "DoubleDigits!": {
 	"TokenKind": "Legendary",
 	"Amount": 1,
