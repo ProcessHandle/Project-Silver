@@ -35,10 +35,10 @@
 	"Amount": 1,
 	"BadgeRequired" : "4"
 },
-"LetsGetIt": {
+"WeDaBest!": {
 	"TokenKind": "Reskin",
-	"Amount": 1,
-	"BadgeRequired" : "6"
+	"Amount": 2,
+	"BadgeRequired" : "8"
 }, 
 "TRANSFORM":
 {"Moves":["Fire Punch","Draco Meteor","Dragon Dance","Extreme Speed"],
