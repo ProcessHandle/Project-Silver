@@ -30,10 +30,10 @@
 	"Amount": 2,
 	"BadgeRequired" : "3"
 },
-"DoubleDigits!": {
-	"TokenKind": "Legendary",
+"MILESTONE!": {
+	"TokenKind": "Reskin",
 	"Amount": 1,
-	"BadgeRequired" : "4"
+	"BadgeRequired" : "6"
 },
 "WeDaBest!": {
 	"TokenKind": "Reskin",
