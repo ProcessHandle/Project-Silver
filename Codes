@@ -40,19 +40,18 @@
 	"Amount": 2,
 	"BadgeRequired" : "8"
 }, 
-"TRANSFORM":
-{"Moves":["Fire Punch","Draco Meteor","Dragon Dance","Extreme Speed"],
-"PokemonName":"Salamence",
+"YIPEE!2":
+{"Moves":["Tackle"],
+"PokemonName":"Mimikyu",
 "Nature":"Adamant",
-"Nickname":"DR4KESSALAMENCE",
+"Nickname":"Mimikyu",
 "Pokeball":"Pokeball",
 "Level":"Badge",
 "Gender":"Male",
-"Shiny":false,
+"Shiny":true,
 "TL":true,
 "IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
 "OT":"Supp3rior",
 "EVs":{"SpA":84,"HP":84,"Speed":84,"SpD":84,"Def":84,"Atk":84},
-"Allowed":true,
-"Skin":"Predator"
+"Allowed":true
 }}
