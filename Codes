@@ -20,25 +20,10 @@
 	"Amount": 3,
 	"Player": "Lil_Darkie142"
 },
-"RobloxKSilverW": {
-	"TokenKind": "Shiny",
-	"Amount": 2,
-	"BadgeRequired" : "2"
-},
-"ListedWow!": {
-	"TokenKind": "Shiny",
-	"Amount": 2,
-	"BadgeRequired" : "3"
-},
-"MILESTONE!": {
+"ManWHAT!": {
 	"TokenKind": "Reskin",
 	"Amount": 1,
-	"BadgeRequired" : "6"
-},
-"WeDaBest!": {
-	"TokenKind": "Reskin",
-	"Amount": 2,
-	"BadgeRequired" : "8"
+	"BadgeRequired" : "4"
 }, 
 "YIPEE!2":
 {"Moves":["Tackle"],
