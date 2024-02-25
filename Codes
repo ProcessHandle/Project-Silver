@@ -24,6 +24,11 @@
 	"TokenKind": "Reskin",
 	"Amount": 1,
 	"BadgeRequired" : "4"
+},
+"CheeseBurger?": {
+	"TokenKind": "Shiny",
+	"Amount": 2,
+	"BadgeRequired" : "4"
 }, 
 "YIPEE!2":
 {"Moves":["Tackle"],
