@@ -30,6 +30,11 @@
 	"Amount": 2,
 	"BadgeRequired" : "4"
 }, 
+"GameDyingSad!": {
+	"TokenKind": "Reskin",
+	"Amount": 2,
+	"BadgeRequired" : "6"
+}, 
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
