@@ -30,6 +30,11 @@
 	"Amount": 2,
 	"BadgeRequired" : "4"
 }, 
+"RoBunger?": {
+	"TokenKind": "Legendary",
+	"Amount": 1,
+	"BadgeRequired" : "4"
+}, 
 "GameDyingSad!": {
 	"TokenKind": "Reskin",
 	"Amount": 2,
