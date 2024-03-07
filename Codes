@@ -25,6 +25,11 @@
 	"Amount": 1,
 	"BadgeRequired" : "4"
 },
+"ThankYouGuys<3": {
+	"TokenKind": "Reskin",
+	"Amount": 2,
+	"BadgeRequired" : "8"
+},
 "CheeseBurger?": {
 	"TokenKind": "Shiny",
 	"Amount": 2,
