@@ -40,10 +40,10 @@
 	"Amount": 1,
 	"BadgeRequired" : "4"
 }, 
-"GameDyingSad!": {
-	"TokenKind": "Reskin",
-	"Amount": 2,
-	"BadgeRequired" : "6"
+"BungaWunga!": {
+	"TokenKind": "Legendary",
+	"Amount": 1,
+	"BadgeRequired" : "4"
 }, 
 "YIPEE!2":
 {"Moves":["Tackle"],
