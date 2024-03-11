@@ -20,29 +20,9 @@
 	"Amount": 3,
 	"Player": "Lil_Darkie142"
 },
-"ManWHAT!": {
-	"TokenKind": "Reskin",
-	"Amount": 1,
-	"BadgeRequired" : "4"
-},
-"ThankYouGuys<3": {
-	"TokenKind": "Reskin",
-	"Amount": 2,
-	"BadgeRequired" : "8"
-},
-"CheeseBurger?": {
-	"TokenKind": "Shiny",
-	"Amount": 2,
-	"BadgeRequired" : "4"
-}, 
-"RoBunger?": {
+"Ramadan!": {
 	"TokenKind": "Legendary",
-	"Amount": 1,
-	"BadgeRequired" : "4"
-}, 
-"BungaWunga!": {
-	"TokenKind": "Legendary",
-	"Amount": 1,
+	"Amount": 2,
 	"BadgeRequired" : "4"
 }, 
 "YIPEE!2":
