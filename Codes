@@ -24,6 +24,11 @@
 	"TokenKind": "Legendary",
 	"Amount": 2,
 	"BadgeRequired" : "4"
+},
+"SorryGuys!": {
+	"TokenKind": "Reskin",
+	"Amount": 2,
+	"BadgeRequired" : "5"
 }, 
 "YIPEE!2":
 {"Moves":["Tackle"],
