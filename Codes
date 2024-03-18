@@ -25,6 +25,11 @@
 	"Amount": 2,
 	"BadgeRequired" : "4"
 },
+"FixBugsSoon?": {
+	"TokenKind": "Upgraded",
+	"Amount": 1,
+	"BadgeRequired" : "1"
+},
 "SorryGuys!": {
 	"TokenKind": "Reskin",
 	"Amount": 2,
