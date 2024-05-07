@@ -20,26 +20,11 @@
 	"Amount": 3,
 	"Player": "Lil_Darkie142"
 },
-"FixBugsSoon?": {
-	"TokenKind": "Upgraded",
+"Yippie!": {
+	"TokenKind": "Reskin",
 	"Amount": 1,
-	"BadgeRequired" : "1"
+	"BadgeRequired" : "7"
 },
-"SorryGuys!": {
-	"TokenKind": "Reskin",
-	"Amount": 2,
-	"BadgeRequired" : "5"
-}, 
-"ThanksForSupport!": {
-	"TokenKind": "Reskin",
-	"Amount": 2,
-	"BadgeRequired" : "6"
-}, 
-"100kVisits!": {
-	"TokenKind": "Reskin",
-	"Amount": 1,
-	"BadgeRequired" : "4"
-}, 
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
