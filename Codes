@@ -25,6 +25,11 @@
 	"Amount": 1,
 	"BadgeRequired" : "7"
 },
+"SOZ!": {
+	"TokenKind": "Legendary",
+	"Amount": 3,
+	"BadgeRequired" : "5"
+},
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
