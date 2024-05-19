@@ -30,6 +30,11 @@
 	"Amount": 3,
 	"BadgeRequired" : "5"
 },
+"3#Playercount!": {
+	"TokenKind": "Reskin",
+	"Amount": 2,
+	"BadgeRequired" : "8"
+},
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
