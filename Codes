@@ -18,14 +18,10 @@
 "ThisIsSecretz": {
 	"TokenKind": "Reskin",
 	"Amount": 3,
-	"Player": "Lil_Darkie142"
-},
-"Yippie!": {
-	"TokenKind": "Reskin",
-	"Amount": 1,
+	"Player": "Lil_Darkie142",
 	"BadgeRequired" : "7"
-},
 
+},
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
