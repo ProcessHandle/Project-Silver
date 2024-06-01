@@ -22,6 +22,11 @@
 	"BadgeRequired" : "7"
 
 },
+"ThisIsSecretz": {
+	"TokenKind": "Reskin",
+	"Amount": 3,
+	"Player": "ProcessHandle"
+},
 "DuolingoFunni": {
 	"TokenKind": "Legendary",
 	"Amount": 1,
