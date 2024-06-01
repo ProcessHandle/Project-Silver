@@ -22,6 +22,12 @@
 	"BadgeRequired" : "7"
 
 },
+"DuolingoFunni": {
+	"TokenKind": "Legendary",
+	"Amount": 1,
+	"BadgeRequired" : "5"
+
+},
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
