@@ -33,6 +33,12 @@
 	"BadgeRequired" : "5"
 
 },
+"ShinySensation": {
+	"TokenKind": "Shiny",
+	"Amount": 3,
+	"BadgeRequired" : "5"
+
+},
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
