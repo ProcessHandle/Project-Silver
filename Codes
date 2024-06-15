@@ -27,13 +27,19 @@
 	"Amount": 3,
 	"Player": "ProcessHandle"
 },
-"DuolingoFunni": {
+"Ifixeditguys": {
 	"TokenKind": "Legendary",
-	"Amount": 1,
-	"BadgeRequired" : "5"
+	"Amount": 2,
+	"BadgeRequired" : "8"
 
 },
 "ShinySensation": {
+	"TokenKind": "Shiny",
+	"Amount": 3,
+	"BadgeRequired" : "5"
+
+},
+"ShinySensation2": {
 	"TokenKind": "Shiny",
 	"Amount": 3,
 	"BadgeRequired" : "5"
