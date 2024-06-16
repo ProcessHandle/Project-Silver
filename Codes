@@ -45,6 +45,12 @@
 	"BadgeRequired" : "5"
 
 },
+"EidMubarak": {
+	"TokenKind": "Reskin",
+	"Amount": 1,
+	"BadgeRequired" : "1"
+
+},
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
