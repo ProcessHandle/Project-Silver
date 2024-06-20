@@ -20,12 +20,33 @@
 	"Amount": 3,
 	"Player": "Lil_Darkie142",
 	"BadgeRequired" : "7"
-
 },
 "womp": {
 	"TokenKind": "Reskin",
 	"Amount": 3,
 	"Player": "ProcessHandle"
+},
+"Ifixeditguys": {
+	"TokenKind": "Legendary",
+	"Amount": 2,
+	"BadgeRequired" : "8"
+},
+"ShinySensation": {
+	"TokenKind": "Shiny",
+	"Amount": 3,
+	"BadgeRequired" : "5"
+},
+"ShinySensation2": {
+	"TokenKind": "Shiny",
+	"Amount": 3,
+	"BadgeRequired" : "5"
+
+},
+"EidMubarak": {
+	"TokenKind": "Reskin",
+	"Amount": 1,
+	"BadgeRequired" : "8"
+
 },
 "YIPEE!2":
 {"Moves":["Tackle"],
