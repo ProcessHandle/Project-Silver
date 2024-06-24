@@ -26,27 +26,15 @@
 	"Amount": 3,
 	"Player": "ProcessHandle"
 },
-"Ifixeditguys": {
-	"TokenKind": "Legendary",
+"24hz1_": {
+	"TokenKind": "Upgraded",
 	"Amount": 2,
-	"BadgeRequired" : "8"
+	"BadgeRequired" : "1"
 },
-"ShinySensation": {
+"24hz2_": {
 	"TokenKind": "Shiny",
-	"Amount": 3,
-	"BadgeRequired" : "5"
-},
-"ShinySensation2": {
-	"TokenKind": "Shiny",
-	"Amount": 3,
-	"BadgeRequired" : "5"
-
-},
-"EidMubarak": {
-	"TokenKind": "Reskin",
-	"Amount": 1,
-	"BadgeRequired" : "8"
-
+	"Amount": 2,
+	"BadgeRequired" : "3"
 },
 "YIPEE!2":
 {"Moves":["Tackle"],
