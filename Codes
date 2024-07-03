@@ -15,6 +15,21 @@
 "EVs":{"SpA":84,"HP":84,"Speed":84,"SpD":84,"Def":84,"Atk":84},
 "Allowed":true
 },
+{"Moves":["Splash"],
+"PokemonName":"Dragonite",
+"Nature":"Adamant",
+"Nickname":"3k",
+"Pokeball":"Pokeball",
+"Level":"5",
+"Gender":"Male",
+"Shiny":false,
+"Skin":"3k Special",
+"TL":false,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"🎁 GIFT 🎁",
+"EVs":{"SpA":84,"HP":84,"Speed":84,"SpD":84,"Def":84,"Atk":84},
+"Allowed":true
+},
 "ThisIsSecretz": {
 	"TokenKind": "Reskin",
 	"Amount": 3,
