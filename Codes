@@ -52,6 +52,11 @@
 	"Amount": 2,
 	"BadgeRequired" : "3"
 },
+"WOW20216": {
+	"TokenKind": "Upgraded",
+	"Amount": 3,
+	"BadgeRequired" : "1"
+},
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
