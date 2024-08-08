@@ -42,16 +42,6 @@
 	"Amount": 3,
 	"Player": "ProcessHandle"
 },
-"24hz1_": {
-	"TokenKind": "Upgraded",
-	"Amount": 2,
-	"BadgeRequired" : "1"
-},
-"24hz2_": {
-	"TokenKind": "Shiny",
-	"Amount": 2,
-	"BadgeRequired" : "3"
-},
 "WOW20216": {
 	"TokenKind": "Upgraded",
 	"Amount": 3,
