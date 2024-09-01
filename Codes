@@ -42,19 +42,14 @@
 	"Amount": 3,
 	"Player": "ProcessHandle"
 },
-"WOW20216": {
-	"TokenKind": "Upgraded",
-	"Amount": 3,
-	"BadgeRequired" : "1"
-},
-"Compensate832024": {
+"35KVisits": {
 	"TokenKind": "Reskin",
-	"Amount": 3,
+	"Amount": 2,
 	"BadgeRequired" : "6"
 },
-"4KMembers": {
-	"TokenKind": "Reskin",
-	"Amount": 1,
+"100Active": {
+	"TokenKind": "Legendary",
+	"Amount": 3,
 	"BadgeRequired" : "5"
 },
 "YIPEE!2":
