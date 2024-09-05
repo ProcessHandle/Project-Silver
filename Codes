@@ -52,6 +52,11 @@
 	"Amount": 3,
 	"BadgeRequired" : "5"
 },
+"75KVisits": {
+	"TokenKind": "Reskin",
+	"Amount": 1,
+	"BadgeRequired" : "3"
+},
 "YIPEE!2":
 {"Moves":["Tackle"],
 "PokemonName":"Mimikyu",
