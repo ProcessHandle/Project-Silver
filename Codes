@@ -42,20 +42,20 @@
 	"Amount": 3,
 	"Player": "ProcessHandle"
 },
-"35KVisits": {
+"125KVisits": {
 	"TokenKind": "Reskin",
-	"Amount": 2,
+	"Amount": 3,
 	"BadgeRequired" : "6"
 },
-"100Active": {
-	"TokenKind": "Legendary",
-	"Amount": 3,
-	"BadgeRequired" : "5"
-},
-"75KVisits": {
-	"TokenKind": "Reskin",
+"1KFavorites": {
+	"TokenKind": "Shiny",
 	"Amount": 1,
-	"BadgeRequired" : "3"
+	"BadgeRequired" : "4"
+},
+"300Active": {
+	"TokenKind": "Legendary",
+	"Amount": 2,
+	"BadgeRequired" : "4"
 },
 "YIPEE!2":
 {"Moves":["Tackle"],
