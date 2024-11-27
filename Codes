@@ -42,19 +42,14 @@
 	"Amount": 3,
 	"Player": "ProcessHandle"
 },
-"125KVisits": {
+"150KVisits": {
 	"TokenKind": "Reskin",
-	"Amount": 3,
+	"Amount": 2,
 	"BadgeRequired" : "6"
 },
-"1KFavorites": {
-	"TokenKind": "Shiny",
+"100Active": {
+	"TokenKind": "Reskin",
 	"Amount": 1,
-	"BadgeRequired" : "4"
-},
-"300Active": {
-	"TokenKind": "Legendary",
-	"Amount": 2,
 	"BadgeRequired" : "4"
 },
 "YIPEE!2":
