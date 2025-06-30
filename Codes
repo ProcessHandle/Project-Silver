@@ -47,6 +47,11 @@
 	"Amount": 2,
 	"BadgeRequired" : "6"
 },
+"Lmao!": {
+	"TokenKind": "Reskin",
+	"Amount": 2,
+	"BadgeRequired" : "6"
+},
 "100Active": {
 	"TokenKind": "Reskin",
 	"Amount": 1,
